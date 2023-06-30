@@ -16,7 +16,7 @@ public class TestRuntimeNetLogic : BaseNetLogic
     public override void Start()
     {
         // Insert code to be executed when the user-defined logic is started
-		print("Local Change");
+		print("Remote Change");
     }
 
     public override void Stop()
