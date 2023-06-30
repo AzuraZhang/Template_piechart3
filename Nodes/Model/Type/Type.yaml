@@ -1,0 +1,15 @@
+Name: Type
+Type: FolderType
+Children:
+- Name: Machine
+  Id: g=00b2e29b2feb2632db47316b3206a7d6
+  Supertype: BaseObjectType
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "None"
+  - Name: Price
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10

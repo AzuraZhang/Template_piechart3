@@ -1,0 +1,5 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: Type/Type.yaml
+- File: Instances/Instances.yaml
