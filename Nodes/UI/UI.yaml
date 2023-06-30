@@ -242,8 +242,6 @@ Children:
         Type: BaseVariableType
         DataType: Float
         Value: 100.0
-    - Name: TestRuntimeNetLogic
-      Type: NetLogic
   - Name: TextBox1
     Type: TextBox
     Children:
